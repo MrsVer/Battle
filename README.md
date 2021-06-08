@@ -2,7 +2,7 @@
 
 The project is called 'Battle'. Here is a mockup of how it might look towards the end:
 
-![Battle final mockup](./images/battle_final_mockup.png)
+![Battle final mockup](./attachements/battle_final_mockup.png)
 
 
 Here are the complete User Stories for this project. They begin with some 'Basic' User Stories:
