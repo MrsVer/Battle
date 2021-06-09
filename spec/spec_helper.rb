@@ -1,3 +1,4 @@
+# Missing frozen string literal comment.
 ENV['RACK_ENV'] = 'test'
 
 # require our Sinatra app file

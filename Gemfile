@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'capybara'
+gem 'launchy'
 gem 'pry', '~> 0.13.1'
 gem 'rspec'
 gem 'rubocop'
