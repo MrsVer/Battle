@@ -1,10 +1,10 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'sinatra'
-gem "sinatra-contrib"
-gem "capybara"
-gem "selenium-webdriver"
+gem 'capybara'
 gem 'pry', '~> 0.13.1'
-gem "webrick", "~> 1.7"
 gem 'rspec'
 gem 'rubocop'
+gem 'selenium-webdriver'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'webrick', '~> 1.7'
