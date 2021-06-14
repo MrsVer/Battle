@@ -1,5 +1,7 @@
 # Battle
 
+### [Makers Academy](http://www.makersacademy.com) - Week 3 Pair Programming Project
+
 The project is called 'Battle'. Here is a mockup of how it might look towards the end:
 
 ![Battle final mockup](./attachements/battle_final_mockup.png)
